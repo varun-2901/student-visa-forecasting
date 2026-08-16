@@ -1,6 +1,6 @@
 # Australian Student Visa Forecasting Analysis
 
-**[View Interactive Analysis Report](outputs/ANALYSIS_REPORT.html)** ← Start here! 📊
+**[📊 View Interactive Analysis Report](https://varun-2901.github.io/student-visa-forecasting/outputs/ANALYSIS_REPORT.html)** ← Click here!
 
 A comprehensive time-series forecasting analysis of Australian international student visa grants using ARIMA, ETS, and Structural Regression models.
 
